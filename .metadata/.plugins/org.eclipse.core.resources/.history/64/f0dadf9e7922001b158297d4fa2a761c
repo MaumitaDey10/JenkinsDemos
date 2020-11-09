@@ -12,5 +12,9 @@ public class WebController {
 		
 		return "hi world";
 	}
-
+public String test() {
+	
+	return ("this is local");
+}
+	
 }
