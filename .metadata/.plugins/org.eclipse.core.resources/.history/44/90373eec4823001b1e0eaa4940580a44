@@ -10,7 +10,7 @@ public class WebController {
 	@GetMapping("/hi")
 	public String sayHi() {
 		
-		return "hi world......from jenkins";
+		return "hi world";
 	}
 
 }
